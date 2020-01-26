@@ -29,14 +29,14 @@ interests:
 
 education:
   courses:
-  - course:PhD in Transportation Engineering
-    institution:University of Texas at Arlington
+  - course: PhD in Transportation Engineering
+    institution: University of Texas at Arlington
     year: 2019-present
-  - course:MEng in Transportation Engineering
-    institution:University of Hawaii at Manoa
+  - course: MEng in Transportation Engineering
+    institution: University of Hawaii at Manoa
     year: 2017-2018
-  - course:BSc in Civil Engineering
-    institution:Rajshahi University of Engineering and Technology (RUET)
+  - course: BSc in Civil Engineering
+    institution: Rajshahi University of Engineering and Technology (RUET)
     year: 2008-2012
 
 # Social/Academic Networking
