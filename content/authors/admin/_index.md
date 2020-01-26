@@ -15,27 +15,29 @@ role: PhD Student of Transportation Engineering
 # Organizations/Affiliations
 organizations:
 - name: University of Texas at Arlington
-  url: ""
+  url: "https://www.uta.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Transportation Planning and Operations.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+-Transportation Data Mining and Machine Learning
+-Transportation Planning
+-Traffic Safety 
+-ITS, AV
+-Driving Behavior
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Transportation Engineering
+    institution: University of Texas at Arlington
+    year: 2019-present
+  - course: MEng in Transportation Engineering
+    institution: University of Hawaii at Manoa
+    year: 2017-2018
+  - course: BSc in Civil Engineering
+    institution: Rajshahi University of Engineering and Technology (RUET)
+    year: 2008-2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
