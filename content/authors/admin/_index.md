@@ -21,11 +21,9 @@ organizations:
 bio: My research interests include Transportation Planning and Operations.
 
 interests:
--Transportation Data Mining and Machine Learning
+-Transportation Data Mining
 -Transportation Planning
--Traffic Safety 
--ITS, AV
--Driving Behavior
+-Traffic Safety,ITS,AV,Driving Behaviour  
 
 education:
   courses:
